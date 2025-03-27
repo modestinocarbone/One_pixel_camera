@@ -55,7 +55,7 @@ Two samples of picture shot with the one pixel camera.
 
 ## TODO
 
-This "promising" results proved the point: One pixel camera is possible under certain conditions. Further steps should involve:
+These "promising" results proved the point: One pixel camera is possible under certain conditions. Further steps should involve:
 
 * Averaging subsequent swipes of individual cell in the matrix (improving shape detection).
 * Increase the number of photodiode will increase sensitivity.
