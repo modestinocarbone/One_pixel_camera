@@ -25,7 +25,7 @@ Materials used in this project:
 
 ## ESP32 breadbord schematic
 
-Here is showed the esp32 breadboard schematic
+Here is showed the esp32 breadboard schematic. The **SSD1306 OLED** was used to monitor the status acquisition; it shows only the 'single pixel' detected ligth intensity.
 
 <img src="./img/1_pix_camera_bb.png" alt="breadboard" style="zoom:50%;" />
 
